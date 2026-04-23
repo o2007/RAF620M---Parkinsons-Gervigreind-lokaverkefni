@@ -1,6 +1,7 @@
 # Parkinsons_gervigreind_spa
 
 Lokaverkefni í RAF620M – Inngangur að vélrænu námi og gervigreind.
+Unnið af Agötu Mozwilo og Ólaf Þór Fortune
 
 ## Uppbygging verkefnis
 ```
