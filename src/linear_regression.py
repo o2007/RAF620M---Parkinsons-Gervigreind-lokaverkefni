@@ -1,5 +1,5 @@
 """
-Línulegt aðhvarf fyrir næstu UPDRS-III heimsókn.
+Línuleg aðhvarfsgreining fyrir næstu UPDRS-III heimsókn.
 """
 
 import os
